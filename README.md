@@ -89,7 +89,7 @@ Windows 11             14 hrs 2 mins      ████████████�
 const person = {
   name: "Kaan",
   role: "Back-end developer",
-  "links": {
+  links: {
     github: "https://github.com/kaanstudent",
   },
 };
