@@ -59,7 +59,7 @@ const kaan = {
 </p>
 
 #### Contribution Graph
-[![Snake game](https://raw.githubusercontent.com/kaanstudent/kaanstudent/123e19cf29a1c81baebff73f996cae8ae0a9840f/snake.svg)
+![Snake game](https://raw.githubusercontent.com/kaanstudent/kaanstudent/123e19cf29a1c81baebff73f996cae8ae0a9840f/snake.svg)
 
 #### I'm an Early 🐤
 ```text
