@@ -55,7 +55,7 @@ const kaan = {
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaanstudent&theme=onedarkr" alt="KaanStudent" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaanstudent&theme=onedark-duo" alt="KaanStudent" />
 </p>
 
 #### Contribution Graph
