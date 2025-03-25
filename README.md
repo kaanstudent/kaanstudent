@@ -19,7 +19,7 @@
 const kaan = {
   pronouns: "He" | "Him",
   code: ["JavaScript", "HTML/CSS", "PHP"],
-  askMeAbout: ["backend dev"],
+  askMeAbout: ["back-end dev"],
   technologies: {
       frontend: {
           js: ["React.js", "Next.js", "Node.js"],
@@ -87,10 +87,10 @@ Windows 11             14 hrs 2 mins      ████████████�
 #### Want to know more about me??
 ```javascript
 const person = {
-  name: "Aryan Mani Tripathi",
-  role: "Front end developer",
+  name: "Kaan",
+  role: "Back-end developer",
   "links": {
-    github: "https://github.com/mrbluebird2",
+    github: "https://github.com/kaanstudent",
   },
 };
 ```
